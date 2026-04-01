@@ -2,6 +2,6 @@
 ## Team Members
 - Jada 
 - Avnoor 
-- Thomas
+- Bennett
 - Alyssa 
 
