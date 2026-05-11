@@ -126,6 +126,8 @@ Visualizations included:
 
 These visualizations helped identify trends and patterns in player scoring behavior.
 
+Pictures of these visualizations can be found in the screenshots folder.
+
 ---
 
 # Key Findings
